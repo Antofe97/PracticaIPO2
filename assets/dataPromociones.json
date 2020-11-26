@@ -1,0 +1,17 @@
+[
+    {
+        "pos": 1,
+      "imagenPromocion": "images/Promocion1.jpg",
+      "nombrePromocion": "2x1 en Circuitos Seleccionados",
+      "circuitos": ["Ciudad Real","Toledo","Valencia"],
+      "descuento": "2x1"
+    },
+    {
+        "pos": 2,
+        "imagenPromocion": "images/Promocion2.png",
+        "nombrePromocion": "Primer Viaje",
+        "circuitos": ["Ciudad Real","Toledo","Galicia", "Valencia"],
+        "descuento": "75%"
+      }
+   
+  ]

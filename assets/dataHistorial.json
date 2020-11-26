@@ -1,0 +1,30 @@
+[
+    {
+      "pos": 1,
+      "imagenCircuito": "images/CiudadReal.jpg",
+      "nombreCircuito": "Ciudad Real",
+      "fecha": "12/04/2019",
+      "grupo": "CorreCaminos",
+      "estado": "Realizado",
+      "color": "green"
+    },
+    {
+      "pos": 2,
+      "imagenCircuito": "images/Galicia.jpg",
+      "nombreCircuito": "Galicia",
+      "fecha": "20/08/2020",
+      "grupo": "Club Excursionistas",
+      "estado": "Pendiente",
+      "color": "orange"
+    },
+    {
+      "pos": 3,
+      "imagenCircuito": "images/Toledo.jpg",
+      "nombreCircuito": "Toledo",
+      "fecha": "10/04/2020",
+      "grupo": "Novatos",
+      "estado": "Cancelado",
+      "color": "red"
+    }
+   
+  ]

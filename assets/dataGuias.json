@@ -1,0 +1,27 @@
+[
+    {
+      "pos": 1,
+      "imagenGuia": "images/Guia1.jpg",
+      "nombreGuia": "Carlos",
+      "idiomas": ["Español","Inglés"],
+      "telefono": 672839123,
+      "email": "tuguia@gmail.com"
+    },
+    {
+      "pos": 2,
+      "imagenGuia": "images/Guia2.jpg",
+      "nombreGuia": "Laura",
+      "idiomas": ["Español","Inglés","Francés", "Italiano"],
+      "telefono": 627019232,
+      "email": "laura_gturistas@outlook.es"
+      },
+      {
+        "pos": 3,
+        "imagenGuia": "images/Guia3.jpg",
+      "nombreGuia": "Roberto",
+      "idiomas": ["Español","Chino mandarín","Alemán"],
+      "telefono": 698765432,
+      "email": "rober@gmail.es"
+      }
+   
+]

@@ -1,0 +1,30 @@
+[
+    {
+      "pos": 1,
+      "imagenCircuito": "images/CiudadReal.jpg",
+      "nombreCircuito": "Ciudad Real",
+      "localidadesCircuito": ["Ciudad Real","Daimiel","Villanueva de los Infantes"],
+      "precio": 20
+    },
+    {
+      "pos": 2,
+      "imagenCircuito": "images/Toledo.jpg",
+      "nombreCircuito": "Toledo",
+      "localidadesCircuito": ["Toledo"],
+      "precio": 50
+    },
+    {
+      "pos": 3,
+      "imagenCircuito": "images/Galicia.jpg",
+      "nombreCircuito": "Galicia",
+      "localidadesCircuito": ["Santiago de Compostela", "A Coruña", "Vigo"],
+      "precio": 120
+    },
+    {
+      "pos": 4,
+      "imagenCircuito": "images/Valencia.jpg",
+      "nombreCircuito": "Valencia",
+      "localidadesCircuito": ["Valencia","Tortosa","Gandía","Benidorm"],
+      "precio": 80
+    }
+  ]

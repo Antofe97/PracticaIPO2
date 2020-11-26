@@ -1,0 +1,24 @@
+[
+    {
+      "pos": 1,
+      "imagenGrupo": "images/Grupo1.jpg",
+      "nombreGrupo": "CorreCaminos",
+      "miembros": ["Antonio","Fernando","María", "Lucía"],
+      "numMiembros": 4
+    },
+    {
+        "pos": 2,
+        "imagenGrupo": "images/Grupo2.jpg",
+        "nombreGrupo": "Club Excursionistas",
+        "miembros": ["Sara","Alejandro","Raul", "Felipe", "Cristina"],
+        "numMiembros": 5
+      },
+      {
+        "pos": 3,
+        "imagenGrupo": "images/Grupo3.jpg",
+        "nombreGrupo": "Novatos",
+        "miembros": ["Esther","Roque"],
+        "numMiembros": 2
+      }
+   
+  ]
